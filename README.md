@@ -24,3 +24,9 @@ The feature/login branch was reviewed and merged into develop using a Pull Reque
 
 Release branch v1.0 is created from develop.
 Only bug fixes and documentation updates are allowed.
+
+### Production Release
+
+Release v1.0 has been merged into main.
+Main now reflects production-ready code.
+

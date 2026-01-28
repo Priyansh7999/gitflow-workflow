@@ -22,3 +22,10 @@ git checkout -b release/v1.0 develop
 git add .
 git commit -m "Create release v1.0"
 git push -u origin release/v1.0
+
+=== PR Merge ===
+release/v1.0 merged into main via GitHub PR
+update main locally
+git checkout main
+git pull origin main
+
