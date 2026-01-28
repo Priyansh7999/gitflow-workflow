@@ -22,3 +22,9 @@ git checkout -b release/v1.0 develop
 git add .
 git commit -m "Create release v1.0"
 git push -u origin release/v1.0
+
+=== Sync Merge ===
+release/v1.0 merged back into develop
+git checkout develop
+git merge release/v1.0
+
