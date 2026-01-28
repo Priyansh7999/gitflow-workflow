@@ -30,3 +30,6 @@ Only bug fixes and documentation updates are allowed.
 Release v1.0 has been merged into main.
 Main now reflects production-ready code.
 
+## Stage 5: Hotfix
+
+Hotfix branch created from main to fix production issue.

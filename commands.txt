@@ -29,3 +29,6 @@ update main locally
 git checkout main
 git pull origin main
 
+=== Branch: hotfix/fix-readme ===
+git checkout -b hotfix/fix-readme main
+
