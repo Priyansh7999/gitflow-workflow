@@ -4,3 +4,8 @@ git checkout -b main
 
 === Branch: develop ===
 git checkout -b develop
+
+=== Branch: feature/login ===
+git checkout -b feature/login develop (develop tells Git to base the new feature/login branch on the current state of the develop branch rather than your current location)
+
+
