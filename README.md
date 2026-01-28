@@ -15,3 +15,7 @@ All feature branches will be created from develop.
 
 Feature branches are created from develop.
 This branch adds login feature documentation.
+
+## Feature Merge
+
+The feature/login branch was reviewed and merged into develop using a Pull Request.
