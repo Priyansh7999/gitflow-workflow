@@ -1,12 +1,17 @@
 # Git Flow Workflow Demo
 
-## Current Stage
+## Current Stage 1:
 Initial repository setup on main branch.
 
 ## Purpose
 This repository demonstrates the Git Flow branching strategy step by step.
 
-## Develop Branch
+## Stage 2: Develop Branch
 
 The develop branch is created from main.
 All feature branches will be created from develop.
+
+## Stage 3: Feature Development
+
+Feature branches are created from develop.
+This branch adds login feature documentation.
