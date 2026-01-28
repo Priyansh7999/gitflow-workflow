@@ -1,3 +1,24 @@
 === Branch: main ===
 git init
 git checkout -b main
+
+=== Branch: develop ===
+git checkout -b develop
+
+=== Branch: feature/login ===
+git checkout -b feature/login develop (develop tells Git to base the new feature/login branch on the current state of the develop branch rather than your current location)
+git add .
+git commit
+git push -u origin feature/login
+
+=== PR Merge and locally update ===
+feature/login merged into develop via GitHub PR
+update develop locally
+git checkout develop
+git pull origin develop
+
+=== Branch: release/v1.0 ===
+git checkout -b release/v1.0 develop
+git add .
+git commit -m "Create release v1.0"
+git push -u origin release/v1.0
