@@ -33,5 +33,3 @@ Main now reflects production-ready code.
 ## Stage 5: Hotfix
 
 Hotfix branch created from main to fix production issue.
-
-git commit -m 
