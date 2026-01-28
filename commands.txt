@@ -32,3 +32,8 @@ git pull origin main
 === Branch: hotfix/fix-readme ===
 git checkout -b hotfix/fix-readme main
 
+=== PR Merge ===
+hotfix/fix-readme merged into main via GitHub PR
+update main locally
+git checkout main
+git pull origin main

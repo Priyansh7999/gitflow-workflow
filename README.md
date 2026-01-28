@@ -33,3 +33,6 @@ Main now reflects production-ready code.
 ## Stage 5: Hotfix
 
 Hotfix branch created from main to fix production issue.
+
+### Hotfix merge
+The hotfix/fix-readme branch was reviewed and merged into main using a Pull Request.
