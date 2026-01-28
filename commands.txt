@@ -1,3 +1,6 @@
 === Branch: main ===
 git init
 git checkout -b main
+
+=== Branch: develop ===
+git checkout -b develop
